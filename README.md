@@ -55,11 +55,8 @@ java Calculator
 
 ## Output Screenshot
 
-Calculator Output
+![Calculator Output](output.png)
 
-```
-Enter first number: 10
-Enter operator (+, -, *, /, %): *
-Enter second number: 5
-Result = 50.0
-```
+```bash
+java calculator.java
+
